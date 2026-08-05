@@ -6,6 +6,7 @@
  This analysis is focused on analyzing the sales report of New Age Stores for the year 2014, and this analysis further aims at helping the stakeholders of this project to make data-driven decisions for the business in the next coming year.
 
 
+
 Introduction:
 
 The major dataset used for this analysis is the Sales Performance data for a Grocery Store. The key methodology used is Microsoft Excel , and the Power BI tool was the major tool used to address and answer all of the project questions.
@@ -13,7 +14,19 @@ The major dataset used for this analysis is the Sales Performance data for a Gro
 
 
 
+
+
+
 <img width="1330" height="749" alt="New Age Dashboard" src="https://github.com/user-attachments/assets/4418c567-1f8a-4cb0-9ce8-6f7d5303748f" />
+
+
+
+
+
+
+
+
+
 
 
 
