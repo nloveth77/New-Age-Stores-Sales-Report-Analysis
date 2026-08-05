@@ -231,7 +231,7 @@ Post-Analysis Recommendation:
 
 
 Conclusion:
-This analysis on Shop & Smile Superstores simply shows products received from different shipping companies, a breakdown of how the products were sold by different branches in different countries, it further highlights different quantities purchased, the salespersons in charge of each city and country and the revenue generated from each product and in Regions of operation.
+This analysis on New Age Stores simply shows products received from different shipping companies, a breakdown of how the products were sold by different branches in different countries, it further highlights different quantities purchased, the salespersons in charge of each city and country and the revenue generated from each product and in Regions of operation.
 
 
 Reference: 
